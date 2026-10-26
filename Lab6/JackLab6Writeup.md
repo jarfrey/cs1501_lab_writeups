@@ -1,4 +1,4 @@
-## Lab 3: Remove Subfolders from the Filesystem
+## Lab 6: Find the Town Judge
 ### Code
 
 ```java
